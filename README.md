@@ -1,2 +1,2 @@
 # myfristrepo
-go away ;)
+go away, there's nothing important here ;)
